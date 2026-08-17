@@ -94,15 +94,23 @@ Make와 n8n에서 모듈·노드 구성 방식은 달랐지만, **감지 → 추
 
 ### Make 실행 결과
 
-| 신규 일정 생성 | 중복 일정 방지 |
-|---|---|
-| ![Make 신규 일정 생성](assets/gifs/코디세이_B1_3_p1_make시연영상_새일정생성.gif) | ![Make 중복 일정 방지](assets/gifs/코디세이_B1_3_p1_make시연영상_중복방지.gif) |
+#### 신규 일정 생성
+
+[![Make 신규 일정 생성](assets/gifs-large/코디세이_B1_3_p1_make시연영상_새일정생성_900w.gif)](assets/gifs-large/코디세이_B1_3_p1_make시연영상_새일정생성_900w.gif)
+
+#### 중복 일정 방지
+
+[![Make 중복 일정 방지](assets/gifs-large/코디세이_B1_3_p1_make시연영상_중복방지_900w.gif)](assets/gifs-large/코디세이_B1_3_p1_make시연영상_중복방지_900w.gif)
 
 ### n8n 실행 결과
 
-| 신규 일정 생성 | 중복 일정 방지 |
-|---|---|
-| ![n8n 신규 일정 생성](assets/gifs/코디세이_B1_3_p1_n8n시연영상_새일정생성.gif) | ![n8n 중복 일정 방지](assets/gifs/코디세이_B1_3_p1_n8n시연영상_중복방지.gif) |
+#### 신규 일정 생성
+
+[![n8n 신규 일정 생성](assets/gifs-large/코디세이_B1_3_p1_n8n시연영상_새일정생성_900w.gif)](assets/gifs-large/코디세이_B1_3_p1_n8n시연영상_새일정생성_900w.gif)
+
+#### 중복 일정 방지
+
+[![n8n 중복 일정 방지](assets/gifs-large/코디세이_B1_3_p1_n8n시연영상_중복방지_900w.gif)](assets/gifs-large/코디세이_B1_3_p1_n8n시연영상_중복방지_900w.gif)
 
 ## Make 구현
 
@@ -249,9 +257,13 @@ flowchart TD
 
 [마스킹된 프로젝트 2 n8n Workflow JSON 보기](workflows/코디세이_B1-3_P2_n8n구조_구글드라이브파일정리자동화_masked.json)
 
-| 기본 파일 분류·정리 | 보너스 2 · Retry와 실패 알림 |
-|---|---|
-| ![Google Drive 파일 자동 정리](assets/gifs/코디세이_B1_3_p2_n8n시연영상.gif) | ![실패 알림 및 재시도](assets/gifs/코디세이_B1_3_p2_n8n시연영상_보너스과제2.gif) |
+### 기본 파일 분류·정리
+
+[![Google Drive 파일 자동 정리](assets/gifs-large/코디세이_B1_3_p2_n8n시연영상_900w.gif)](assets/gifs-large/코디세이_B1_3_p2_n8n시연영상_900w.gif)
+
+### 보너스 2 · Retry와 실패 알림
+
+[![실패 알림 및 재시도](assets/gifs-large/코디세이_B1_3_p2_n8n시연영상_보너스과제2_900w.gif)](assets/gifs-large/코디세이_B1_3_p2_n8n시연영상_보너스과제2_900w.gif)
 
 ## 구현 단계
 
@@ -426,8 +438,8 @@ flowchart LR
 
 | 산출물 | 위치 |
 |---|---|
-| `코디세이_B1_3_p1_make시연영상_새일정생성.gif` | [GIF 보기](assets/gifs/코디세이_B1_3_p1_make시연영상_새일정생성.gif) |
-| `코디세이_B1_3_p1_make시연영상_중복방지.gif` | [GIF 보기](assets/gifs/코디세이_B1_3_p1_make시연영상_중복방지.gif) |
+| `코디세이_B1_3_p1_make시연영상_새일정생성_900w.gif` | [GIF 보기](assets/gifs-large/코디세이_B1_3_p1_make시연영상_새일정생성_900w.gif) |
+| `코디세이_B1_3_p1_make시연영상_중복방지_900w.gif` | [GIF 보기](assets/gifs-large/코디세이_B1_3_p1_make시연영상_중복방지_900w.gif) |
 | `코디세이_B1_3_p1_make실행화면` | 산출물 폴더 — GitHub 업로드 시 실제 경로 연결 |
 | `코디세이_B1_3_p1_make실행화면_중복방지` | 산출물 폴더 — GitHub 업로드 시 실제 경로 연결 |
 
@@ -435,8 +447,8 @@ flowchart LR
 
 | 산출물 | 위치 |
 |---|---|
-| `코디세이_B1_3_p1_n8n시연영상_새일정생성.gif` | [GIF 보기](assets/gifs/코디세이_B1_3_p1_n8n시연영상_새일정생성.gif) |
-| `코디세이_B1_3_p1_n8n시연영상_중복방지.gif` | [GIF 보기](assets/gifs/코디세이_B1_3_p1_n8n시연영상_중복방지.gif) |
+| `코디세이_B1_3_p1_n8n시연영상_새일정생성_900w.gif` | [GIF 보기](assets/gifs-large/코디세이_B1_3_p1_n8n시연영상_새일정생성_900w.gif) |
+| `코디세이_B1_3_p1_n8n시연영상_중복방지_900w.gif` | [GIF 보기](assets/gifs-large/코디세이_B1_3_p1_n8n시연영상_중복방지_900w.gif) |
 | `코디세이_B1_3_p1_n8n실행화면` | 산출물 폴더 — GitHub 업로드 시 실제 경로 연결 |
 | `코디세이_B1_3_p1_n8n실행화면_새일정생성` | 산출물 폴더 — GitHub 업로드 시 실제 경로 연결 |
 | `코디세이_B1_3_p1_n8n실행화면_중복방지` | 산출물 폴더 — GitHub 업로드 시 실제 경로 연결 |
@@ -445,8 +457,8 @@ flowchart LR
 
 | 산출물 | 위치 |
 |---|---|
-| `코디세이_B1_3_p2_n8n시연영상.gif` | [GIF 보기](assets/gifs/코디세이_B1_3_p2_n8n시연영상.gif) |
-| `코디세이_B1_3_p2_n8n시연영상_보너스과제2.gif` | [GIF 보기](assets/gifs/코디세이_B1_3_p2_n8n시연영상_보너스과제2.gif) |
+| `코디세이_B1_3_p2_n8n시연영상_900w.gif` | [GIF 보기](assets/gifs-large/코디세이_B1_3_p2_n8n시연영상_900w.gif) |
+| `코디세이_B1_3_p2_n8n시연영상_보너스과제2_900w.gif` | [GIF 보기](assets/gifs-large/코디세이_B1_3_p2_n8n시연영상_보너스과제2_900w.gif) |
 
 ## 재현용 Workflow
 
